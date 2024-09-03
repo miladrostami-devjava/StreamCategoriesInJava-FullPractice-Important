@@ -1,0 +1,6 @@
+In this scenario,
+ we want to read data from a text file,
+  make changes to it, and then write it to a new file.
+   For example, suppose we have a text file that
+   contains lowercase letters and we want to convert
+    them to uppercase and save them in another file.

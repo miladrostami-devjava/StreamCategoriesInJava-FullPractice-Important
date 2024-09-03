@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ObjectInputOutputStream-in-java" />
+        <module name="DataInputOutputStream-in-java" />
+        <module name="PushBackInputStream-in-java" />
+        <module name="StringBufferInputStream-in-java" />
+        <module name="stream-example-in-javacore" />
+        <module name="FileInputOutputStream-in-java" />
+        <module name="ByteArrayOutput-InputStream-in-java" />
+        <module name="FilterInputOutputStream-in-java" />
+        <module name="PipedInputOutputStream-in-java" />
+        <module name="PrintStream-in-java" />
+        <module name="BufferedInputOutPutStream-in-java" />
+        <module name="SequenceInputStream-in-java" />
+        <module name="LineNumberInputStream-in-java" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
